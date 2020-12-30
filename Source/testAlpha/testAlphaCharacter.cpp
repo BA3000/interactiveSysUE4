@@ -51,12 +51,12 @@ AtestAlphaCharacter::AtestAlphaCharacter()
 void AtestAlphaCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent)
 {
 	// set up gameplay key bindings
-	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
-	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
-	PlayerInputComponent->BindAxis("MoveRight", this, &AtestAlphaCharacter::MoveRight);
+//	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
+//	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
+//	PlayerInputComponent->BindAxis("MoveRight", this, &AtestAlphaCharacter::MoveRight);
 
-	PlayerInputComponent->BindTouch(IE_Pressed, this, &AtestAlphaCharacter::TouchStarted);
-	PlayerInputComponent->BindTouch(IE_Released, this, &AtestAlphaCharacter::TouchStopped);
+//	PlayerInputComponent->BindTouch(IE_Pressed, this, &AtestAlphaCharacter::TouchStarted);
+//	PlayerInputComponent->BindTouch(IE_Released, this, &AtestAlphaCharacter::TouchStopped);
 }
 
 void AtestAlphaCharacter::MoveRight(float Value)
