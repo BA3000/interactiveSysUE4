@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/build/generated/source/aidl/aidl.iml" filepath="$PROJECT_DIR$/app/build/generated/source/aidl/aidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/generated/source/apt/apt.iml" filepath="$PROJECT_DIR$/app/build/generated/source/apt/apt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/app/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permission_library/build/generated/source/generated.iml" filepath="$PROJECT_DIR$/permission_library/build/generated/source/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloader_library/build/generated/source/generated1.iml" filepath="$PROJECT_DIR$/downloader_library/build/generated/source/generated1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gradle.iml" filepath="$PROJECT_DIR$/.idea/gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permission_library/build/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources.iml" filepath="$PROJECT_DIR$/permission_library/build/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources1.iml" filepath="$PROJECT_DIR$/app/build/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloader_library/build/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources2.iml" filepath="$PROJECT_DIR$/downloader_library/build/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources2.iml" />
+    </modules>
+  </component>
+</project>
